@@ -80,9 +80,9 @@ if number in range (1,11):
             if sign == "=":
                 print("Your number is 9")
             elif sign == ">":
-                    print("Your number is 10")
+                print("Your number is 10")
             else:
-                    print("Error")
+                print("Error")
         else:
             print("Error")
     else:
